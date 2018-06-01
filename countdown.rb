@@ -14,4 +14,6 @@ def countdown_with_sleep(int)
 end
 
 
-evenArray=
+evenArray = Array.new(5) + 1
+
+while evenArray 
